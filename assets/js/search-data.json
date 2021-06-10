@@ -1,11 +1,22 @@
 {
   
+    
+        "post0": {
+            "title": "Wulu Data Analysis",
+            "content": "Wulu Data Analysis . The following post contains the data analysis of the attitude changes the we percieved in our project for the Stanford Longevity design challenge. For a more detailed report on how the project planned, executed and what we learned from it, we will be updating the post with a relevant report soon. . Analysis . Comparison between baseline and endline questionnaire scores using only the best option as the answer . The following chart establishes a relationship between age and score, with gender taken as a differentiating parameter. With an increase in age, there appears to be a more susceptibility to a positive change in attitude. It is also evident that this change is reflected more in the girls. . Trends with respect to parents education levels .",
+            "url": "https://weunlearn.github.io/blog/2021/06/10/Wulu-Data-Analysis.html",
+            "relUrl": "/2021/06/10/Wulu-Data-Analysis.html",
+            "date": " • Jun 10, 2021"
+        }
+        
+    
+  
 
   
   
 
   
-      "page1": {
+      ,"page1": {
           "title": "About Me",
           "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://weunlearn.github.io/blog/about/",
